@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Unfortunately GitHub does not show my daily work contributed to my employers internal GitHub organizaton. You can find more information about me on my website [karlhaworth.com](https://karlhaworth.com).
+You can find more information about me on my website [karlhaworth.com](https://karlhaworth.com).
 
 ### Emergentics Profile
 
